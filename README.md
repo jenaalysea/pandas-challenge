@@ -2,6 +2,8 @@
 
 # https://stackoverflow.com/questions/30503321/finding-count-of-distinct-elements-in-dataframe-in-each-column, Site design / logo 2023 Stac Exchange Inc; user contributions licensed under CC BY-SA rev 2023.11.13.870 -- used to understand the "nunique" method.
 
+# https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.cut.html, PyData Sphinx Theme 0.13.13, instructor Matt Bosworth demonstrated how referencing pandas.org and understanding what goes into making each function operate correctly can help answer your own question when the results from your code are not formatting or working properly.
+
 # referenced class assignments - 
 # 05-Ins_DataFunctions
 # 07-Ins_ColumnManipulation
